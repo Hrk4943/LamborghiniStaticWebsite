@@ -1,0 +1,448 @@
+.mainn{
+    margin: 0px;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    background: black;
+    position: fixed;
+}
+.leftside{
+    width: 50%;
+    height: 150px;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 100px;
+    float: right;
+}
+.img{
+    height: 72px;
+    width: 70px;
+    padding-left: 65px;
+    padding-top: 14px;
+}
+.table{
+    float: right;
+    padding-right: 130px;
+    color:white;
+    padding-top: 40px;
+    text-align: center;
+}
+.td{
+    padding-left: 17px;
+    text-decoration: none;
+    font-size: revert;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.imgahref:hover{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    border-bottom: 1px solid white;
+}
+.ul{
+    display: flex;
+    padding-left: 230px;
+    padding-top: 33px;
+    font-family: sans-serif;
+    font-size: revert;
+}
+.li{
+    position: relative;
+    margin-right: 17px;
+}
+.imgchat{
+    margin-left: 50px;
+    height: 30px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+.imgsearch{
+    margin-left: 40px;
+    height: 20px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+.imgmenu{
+    margin-left: 40px;
+    height: 24px;
+    margin-top: -2px;
+    cursor: pointer;
+}
+.img2{
+    width: 100%;
+    height: 850px;
+}
+.h{
+    text-transform: uppercase;
+    color:white;
+    padding-left: 200px;
+    padding-top: 0px;
+    font-size: 6rem;
+    letter-spacing: -2.48px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;   
+}
+.h2{
+    text-transform: uppercase;
+    color:white;
+    padding-left: 203px;
+    padding-top: 190px;
+    font-size: 3rem;
+    margin-bottom: -82px;
+    margin-top: -796px;
+    font-family:  sans-serif;
+}
+.imghexa{
+    margin-left: 200px;
+    margin-top: -40px;
+}
+.txt{
+    float: left;
+}
+.img3{
+    margin-top: 20px;
+    float: right;
+    height: 855px;
+    margin-right: 0px;
+}
+.imghexa1{
+    margin-left: 200px;
+    margin-top: -40px;
+    position: relative;
+    top: -560px;
+    left: -76px;
+}
+
+.h1{
+    color: white;
+    text-transform: uppercase;
+    float:left;
+    margin-top: -265px;
+    font-size: 6rem;
+    letter-spacing: 5.52px;
+    font-family: sans-serif;
+    padding-left: 140px
+}
+.take{
+    color: white;
+    text-transform: uppercase;
+    float: left;
+    margin-top: -165px;
+    padding-left: 143px;
+    font-size: 2rem;
+    letter-spacing: -0.48px;
+    font-family: sans-serif;
+}
+.font{
+    margin-top: -82px;
+    float: left;
+    padding-left: 144px;
+    color: white;
+}
+.img4{
+    width: 100%;
+}
+.confi{
+    text-transform: uppercase;
+    margin-top: -490px;
+    padding-left: 125px;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+.create{
+    text-transform: uppercase;
+    padding-left: 122px;
+    font-size: 5rem;
+    margin-top: -23px;
+    font-family: sans-serif;
+}
+.img5{
+    width: 100%;
+    height: 745px;
+    padding-top: 285px;
+}
+.dealer{
+    text-transform: uppercase;
+    margin-top: -490px;
+    padding-left: 125px;
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: white;
+
+}
+.find{
+    text-transform: uppercase;
+    padding-left: 122px;
+    font-size: 5rem;
+    margin-top: -23px;
+    font-family: sans-serif;
+    color: white;
+}
+.news{
+    text-transform: uppercase;
+    text-align: left;
+    padding: 363px;
+    margin-top: -49px;
+    padding-left: 136px;
+    font-size: 2rem;
+    font-family:  sans-serif;
+}
+.lamborghini{
+    text-transform: uppercase;
+    padding: 130px;
+    margin-top: -530px;
+    text-align: left;
+    font-size: 7rem;
+    font-family:  sans-serif;
+}
+.img6{
+    width: 80%;
+    height: 530px;
+    padding-left: 137px;
+    margin-top: -190px;
+}
+.sept{
+    padding-left: 137px;
+    font-family:  sans-serif;
+}
+.button{
+    width: 150px;
+    height: 30px;
+    margin-left: 142px;
+    text-decoration: none;
+    background-color: whitesmoke;
+    border: 0px;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+.countach{
+    padding-left: 135px;
+    font-family:sans-serif;
+    font-size: xx-large;
+}
+.button1{
+    width: 200px;
+    height: 50px;
+    margin-left: 142px;
+    text-decoration: none;
+    float: left;
+    margin-left: 1150px;
+    margin-top: -100px;
+    background: white;
+    color: black;
+}
+.button1:hover{
+    background-color: black;
+    color: white;
+}
+.paragraph{
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 2rem;
+    margin-bottom: 0;
+    padding-left: 140px;
+    font-family:  sans-serif;
+}
+.img7{
+    width: 50%;
+    height: 324px;
+    padding-left: 125px;
+    padding-top: 69px;
+}
+.sept29{
+    padding-left: 920px;
+    margin-top: -333px;
+    font-size: large;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+.button2{
+    float: right;
+    margin-right: 540px;
+    margin-top: 35px;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    border: 0px;
+    background: white;
+    font-size: large;
+}
+.button2:hover{
+    background-color: black;
+    color: white;
+}
+.lambo{
+    padding-left: 920px;
+    padding-top: 70px;
+    font-family:  sans-serif;
+}
+.button3{
+    float: right;
+    margin-right: 400px;
+    margin-top: 35px;
+    width: 200px;
+    height: 50px;
+    background: white;
+}
+.button3:hover{
+    background-color: black;
+    color: white;
+}
+.img8{
+    width: 50%;
+    height: 324px;
+    padding-left: 125px;
+    padding-top: 185px;
+}
+.sept27{
+    padding-left: 920px;
+    margin-top: -329px;
+    font-size: large;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+.button4{
+    margin-right: 400px;
+    width: 200px;
+    height: 50px;
+    background: black;
+    color: white;
+    margin-left: 685px;
+    margin-top: 127px;
+}
+.button4:hover{
+    background: white;
+    color: black;
+}
+.bottom{
+    width: 100%;
+    height: 400px;
+    background: black;
+    margin-top: 200px;
+}
+.ul2{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 60px;
+    font-family: sans-serif;
+    font-size: revert;
+    text-decoration: none;
+}
+.li2{
+    margin-left: 29px;
+    padding-inline: 10px
+}
+.ul3{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 0px;
+    font-family: sans-serif;
+    font-size: revert;
+    text-decoration: none;
+}
+.li3{
+    margin-left: 29px;
+    padding-inline: 10px
+}
+.iconimg{
+    margin-right: 0px;
+}
+.img9{
+    background: black;
+    float: right;
+    margin-right: 400px;
+    margin-top: -80px;
+    height: 35px
+}
+.img10{
+    float: right;
+    margin-right: 350px;
+    margin-top: -75px
+}
+.img11{
+    float: right;
+    margin-right: 300px; 
+    margin-top: -75px;
+    color: black;
+}
+.img12{
+    float: right;
+    margin-right: 250px;
+    margin-top: -75px
+}
+.img13{
+    float: right;
+    height: 45px;
+    margin-right: 200px;
+    margin-top: -85px
+}
+.img14{
+    float: right;
+    margin-right: 195px;
+    margin-top: -75px
+}
+.img15{
+    float: right;
+    margin-right: 140px;
+    margin-top: -75px
+}
+.img16{
+    float: right;
+    margin-right: 90px;
+    margin-top: -75px
+}
+.img17{
+    float: right;
+    margin-right: 30px;
+    margin-top: -75px
+}
+.paragraph2{
+    color: white;
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 2.4rem;
+    margin-bottom: -20px;
+    padding-left: 40px;
+    font-family: sans-serif;
+}
+.paragraph3{
+    color: white;
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 2.4rem;
+    margin-top: 55px;
+    padding-left: 40px;
+    font-family: sans-serif;
+}
+.paragraph4{
+    color: white;
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 2.4rem;
+    margin-top: -20px;
+    padding-left: 40px;
+    font-family: sans-serif;
+}
+.bottom2{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    height: 25px;
+    background-color: black;
+}
+.paragraph5{
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+    font-family: sans-serif;
+}
